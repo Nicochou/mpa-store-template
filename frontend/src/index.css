@@ -1,0 +1,14 @@
+/* No CSS *//*# sourceMappingURL=index.css.map */
+#registerBox{
+    padding: 10px;
+    border-radius: 3%;
+}
+#loginBox{
+    padding: 10px;
+    border-radius: 3%;
+    margin-right:5%;
+}
+#adminBox{
+    padding: 10px;
+    border-radius: 3%;
+}
